@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/c++-0180cd.svg?&style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
   </a>&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/csharp-9b4f97.svg?&style=for-the-badge&logo=csharp&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=ffffff" />
   </a>&nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
