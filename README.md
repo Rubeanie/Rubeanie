@@ -1,7 +1,8 @@
 <h1 align='center'> HELLO WORLD... I'm Ruben Panzich 💻 </h1>
 
 <p align='center'>
-  <a href="#"><img src="https://api.visitorbadge.io/api/VisitorHit?user=Rubeanie&repo=github-visitors-badge&countColor=%23efc20f"></a>
+  <a href="#"><img src="https://api.visitorbadge.io/api/VisitorHit?user=Rubeanie&repo=github-visitors-badge&countColor=%23efc20f"></a><br>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rubeanie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 <p align='center'>
