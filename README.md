@@ -2,7 +2,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://api.visitorbadge.io/api/VisitorHit?user=Rubeanie&repo=github-visitors-badge&countColor=%23efc20f"></a><br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rubeanie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rubeanie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="" /></a>
 </p>
 <p align='center'>
   I'm a 18-year-old student, freelance creative artist/developer. <br>
