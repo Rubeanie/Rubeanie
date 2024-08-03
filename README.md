@@ -5,7 +5,7 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="" /></a>
 </p>
 <p align='center'>
-  I'm a 19-year-old student, freelance creative artist/developer. <br>
+  I'm a 20-year-old student, freelance creative artist/developer. <br>
   🌆 Living in Perth, Western Australia. <br>
   You can contact me on: <br>
   <a href="https://www.ruben-p.com">
