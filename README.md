@@ -73,5 +73,4 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Unity-042937.svg?&style=for-the-badge&logo=unity&logoColor=ffffff" />
   </a>&nbsp;<br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=Rubeanie&count_private=true&theme=tokyonight&showicons=true" />
 </p>
