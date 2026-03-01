@@ -8,7 +8,7 @@
   </a>
   <br>
   I'm a 21-year-old student, junior creative developer. <br>
-  🌆 Living in Perth, Western Australia. <br> 
+  🌆 Living in Perth, Western Australia. <br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=true&bar_color_cover=true&mode=dark" alt=""/></a>
 </div>
 
