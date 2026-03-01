@@ -8,95 +8,95 @@
   </a>
   <br>
   I'm a 21-year-old student, junior creative developer. <br>
-  🌆 Living in Perth, Western Australia. <br><br>
+  🌆 Living in Perth, Western Australia. <br> 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=true&bar_color_cover=true&mode=dark" alt=""/></a>
 </div>
 
 <h2 align='center'>⚒ My Development Toolbelt</h2>
 
-<p align='center'>
+<div align='center'>
   <picture>
-    <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/C-626c78?style=flat&logo=c" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/C-626c78?style=flat&logo=c&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/C++-0180cd?style=flat&logo=cplusplus&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/C++-0180cd?style=flat&logo=cplusplus&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=swift&logoColor=F05138" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=swift&logoColor=F05138" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=openjdk&logoColor=black" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=openjdk&logoColor=black" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Kotlin-ffffff?style=flat&logo=kotlin" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/React-012630?style=flat&logo=react&logoColor=61DAFB" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/React-012630?style=flat&logo=react&logoColor=61DAFB" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Bun-14151a?style=flat&logo=bun&logoColor=fbf0df" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Bun-14151a?style=flat&logo=bun&logoColor=fbf0df" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Espressif-ffffff?style=flat&logo=espressif" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Espressif-ffffff?style=flat&logo=espressif" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Blender-dc770c?style=flat&logo=blender&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Blender-dc770c?style=flat&logo=blender&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Unity-042937?style=flat&logo=unity&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Unity-042937?style=flat&logo=unity&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Xcode-ffffff?style=flat&logo=xcode&logoColor=147EFB" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=xcode&logoColor=ffffff" style="height: 24px"/>
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat&logo=easyeda&logoColor=white" style="height: 28px"/>
+    <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat&logo=easyeda&logoColor=white" style="height: 24px"/>
   </picture>
-</p>
+</div>
