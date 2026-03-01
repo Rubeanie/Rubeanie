@@ -16,10 +16,16 @@
 
 <p align='center'>
   <picture>
-    <img src="https://img.shields.io/badge/C++-0180cd.svg?&style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/C-626c78.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/C++-0180cd.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
   </picture>&nbsp;
   <picture>
     <img src="https://img.shields.io/badge/Swift-ffffff.svg?&style=for-the-badge&logo=swift&logoColor=F05138" />
@@ -34,13 +40,13 @@
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/React-012630?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </picture>&nbsp;
-  <picture>
     <img src="https://img.shields.io/badge/CSS-663399?&style=for-the-badge&logo=css&logoColor=white" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </picture>&nbsp;
   <picture>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,19 +55,49 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </picture>&nbsp;
   <picture>
+    <img src="https://img.shields.io/badge/React-012630?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </picture>&nbsp;
+  <picture>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Blender-dc770c.svg?&style=for-the-badge&logo=blender&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Bun-14151a.svg?&style=for-the-badge&logo=bun&logoColor=fbf0df" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Unity-042937.svg?&style=for-the-badge&logo=unity&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   </picture>&nbsp;
   <picture>
-    <img src="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/TrueNAS-0095D5.svg?&style=for-the-badge&logo=truenas&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Espressif-ffffff.svg?&style=for-the-badge&logo=espressif&logoColor=E7352C" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Blender-dc770c.svg?&style=for-the-badge&logo=blender&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Unity-042937.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/Xcode-ffffff.svg?&style=for-the-badge&logo=xcode&logoColor=147EFB" />
+  </picture>&nbsp;
+  <picture>
+    <img src="https://img.shields.io/badge/EasyEDA-1765F6.svg?&style=for-the-badge&logo=easyeda&logoColor=white" />
   </picture>&nbsp;
   <br>
 </p>
