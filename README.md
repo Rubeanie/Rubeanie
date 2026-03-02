@@ -10,11 +10,9 @@
   I'm a 21-year-old student, junior creative developer. <br>
   🌆 Living in Perth, Western Australia. <br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=true&bar_color_cover=true&mode=dark" alt=""/></a>
-</div>
 
-<h2 align='center'>⚒ My Development Toolbelt</h2>
+  <h2>⚒ My Development Toolbelt</h2>
 
-<div align='center'>
   <picture>
     <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" style="height: 24px"/>
   </picture>&nbsp;
