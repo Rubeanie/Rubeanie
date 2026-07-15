@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Ruben--P.com-f75f50?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDMuODUgMjQgMTYuMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZWJlNmU3Ij48cGF0aCBkPSJtMS4zOSA3Ljc3IDMuODQgNS4yMi01LjE4IDYuNzdjLS4xMi4xNiAwIC4zOS4xOS4zOWgzLjE5Yy4wNyAwIC4xNS0uMDMuMTktLjA5bDUuNC03LjA2LTQuNjItNi4yMmg2Ljh2MTMuMTJjMCAuMTMuMTEuMjQuMjQuMjRoMi40OGMuMTMgMCAuMjQtLjExLjI0LS4yNHYtMTYuMDVoLTEyLjc3em0xMy44Ni0zLjkydjIuOTNoNS43M2wtNC4zNSA1LjgzYy0uMTIuMTYgMCAuMzguMTkuMzhoMy4xM2MuMDggMCAuMTUtLjA0LjE5LS4xbDMuODUtNS4xM3YtMy45MXoiLz48L3N2Zz4=" style="height: 24px"/>
   </a>
   <br>
-  I'm a 21-year-old student, junior creative developer. <br>
+  I'm a 21-year-old junior creative developer. <br>
   🌆 Living in Perth, Western Australia. <br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=true&bar_color_cover=true&mode=dark" alt=""/></a>
 
