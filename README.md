@@ -11,7 +11,9 @@ L<h1 align='left'>HELLO WORLD 👋</h1>
   🌆 Living in Perth, Western Australia. <br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=true&bar_color_cover=true&mode=dark" alt=""/></a>
 
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <picture>
+    <img src="koi/koi.gif" width="256" alt="My koi" />
+  </picture>
 
   <h2>⚒ My Development Toolbelt</h2>
 
