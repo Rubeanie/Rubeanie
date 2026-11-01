@@ -1,4 +1,4 @@
-L<h1 align='left'>HELLO WORLD 👋</h1>
+<h1 align='left'>HELLO WORLD 👋</h1>
 
 <div align='center'>
   <h3>I'm Ruben Panzich</h3>
