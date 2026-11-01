@@ -1,4 +1,4 @@
-<h1 align='left'>HELLO WORLD 👋</h1>
+L<h1 align='left'>HELLO WORLD 👋</h1>
 
 <div align='center'>
   <h3>I'm Ruben Panzich</h3>
@@ -10,6 +10,8 @@
   I'm a 22-year-old Software Engineer | Apple Vision Pro • AR/VR • Full-Stack. <br>
   🌆 Living in Perth, Western Australia. <br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rubeanie&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=true&bar_color_cover=true&mode=dark" alt=""/></a>
+
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 
   <h2>⚒ My Development Toolbelt</h2>
 
